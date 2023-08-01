@@ -34,11 +34,10 @@ This is an E-Commerce website built collaboratively with my friends. The project
 To run the project locally, follow these steps:
 
 - 1. **Clone the repository:**
-git clone https://github.com/_____________/_____________git
+- git clone https://github.com/_____________/_____________git
 - 2  **Navigate to the project directory.**
-cd ___________________________
-cd frontend
+- cd ___________________________; cd frontend
 - 3 **Install dependencies**
-yarn install
+- yarn install
 - 4 **Start the development server**
-yarn dev
+- yarn dev
