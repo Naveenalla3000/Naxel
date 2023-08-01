@@ -41,3 +41,39 @@ To run the project locally, follow these steps:
 - yarn install
 - 4 **Start the development server**
 - yarn dev
+
+Nilex/
+  ├── frontend/
+  │   ├── public/
+  │   ├── src/
+  │   │   ├── app/
+  │   │   ├── components/
+  │   │   ├── features/
+  │   │   ├── App.jsx
+  │   │   ├── index.jsx
+  │   │   └── ...
+  │   ├── package.json
+  │   ├── .gitignore
+  │   └── vite.config.js
+  │   ├── tailwind.config.js
+  │   ├── yarn.lock
+  │   ├── Dockerfile.dev
+  │   ├── ...
+  |
+  ├── api/
+  │   ├── config/
+  │   ├── controllers/
+  │   ├── middlewares/
+  │   ├── models/
+  │   ├── routes/
+  │   ├── index.js
+  │   ├── package.json
+  │   ├── .env
+  │   ├── .gitignore
+  │   ├── .Dockerfile.dev
+  │   ├── ...
+  |
+  ├── docker-compose.yaml
+  ├── package.json
+  ├── .gitignore
+  ├── ...
