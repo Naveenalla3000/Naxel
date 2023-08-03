@@ -4,6 +4,9 @@
 
 This is an E-Commerce website built collaboratively with my friends. The project features authentication, authorization, JWT token generation, protected routes, and MongoDB as the database. It is developed using Vite-React with JSX syntax for enhanced performance. The application is styled using Tailwind CSS, and global state management is achieved through React Redux.
 
+## Web Site Link
+If you ever find yourself facing doubts or seeking a clearer understanding while working on your projects, I want to share a helpful resource with you. Check out the website https://nexel.onrender.com/. It's an excellent platform that provides insightful information, tutorials, and explanations to enhance your understanding of various topics. Sometimes, a fresh perspective can make all the difference in overcoming challenges and mastering new concepts. Happy coding!"
+
 ## Features
 
 - User Authentication: Users can sign up, log in, and log out securely using JWT-based authentication.
