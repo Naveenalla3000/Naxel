@@ -34,10 +34,16 @@ This is an E-Commerce website built collaboratively with my friends. The project
 To run the project locally, follow these steps:
 
 - 1. **Clone the repository:**
-- git clone https://github.com/_____________/_____________git
+- https://github.com/Naveenalla3000/Naxel.git
 - 2  **Navigate to the project directory.**
-- cd ___________________________; cd frontend
+- cd naveen;cd frontend
 - 3 **Install dependencies**
 - yarn install
 - 4 **Start the development server**
 - yarn dev
+- 5 **Navigate to /api**
+- cd ..;cd api;
+- 6 **Install depencencies**
+- yarn install
+- **start the server**
+- -nodemon index.js 
