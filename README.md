@@ -5,7 +5,7 @@
 This is an E-Commerce website built collaboratively with my friends. The project features authentication, authorization, JWT token generation, protected routes, and MongoDB as the database. It is developed using Vite-React with JSX syntax for enhanced performance. The application is styled using Tailwind CSS, and global state management is achieved through React Redux.
 
 ## Web Site Link
-If you ever find yourself facing doubts or seeking a clearer understanding while working on your projects, I want to share a helpful resource with you. Check out the website https://nexel.onrender.com/. It's an excellent platform that provides insightful information, tutorials, and explanations to enhance your understanding of various topics. Sometimes, a fresh perspective can make all the difference in overcoming challenges and mastering new concepts. Happy coding!"
+If you ever find yourself facing doubts or seeking a clearer understanding while working on your projects, I want to share a helpful resource with you. Check out the website https://nexel.onrender.com/. A fresh perspective can make all the difference in overcoming challenges and mastering new concepts. Happy coding!"
 
 ## Features
 
@@ -31,7 +31,6 @@ If you ever find yourself facing doubts or seeking a clearer understanding while
 - Yarn Package Manager: Install Yarn on your machine, as it will be used to manage the project's dependencies. You can find installation instructions for your specific operating system here: https://classic.yarnpkg.com/en/docs/install.
 - MongoDB: Since the project uses MongoDB as the database, you'll need to have MongoDB installed and running on your local machine. You can download and install MongoDB Community Edition from the official website: https://www.mongodb.com/try/download/community.
 
- 
 ## Getting Started
 
 To run the project locally, follow these steps:
