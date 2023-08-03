@@ -46,4 +46,4 @@ To run the project locally, follow these steps:
 - 6 **Install depencencies**
 - yarn install
 - **start the server**
-- -nodemon index.js 
+- nodemon index.js 
