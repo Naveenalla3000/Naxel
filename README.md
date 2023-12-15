@@ -37,7 +37,7 @@ If you ever find yourself facing doubts or seeking a clearer understanding while
 To run the project locally, follow these steps:
 
 - 1. **Clone the repository:**
-- https://github.com/Naveenalla3000/Naxel.git
+- `https://github.com/Naveenalla3000/Naxel.git`
 - 2  **Navigate to the project directory.**
 - cd naveen;cd frontend
 - 3 **Install dependencies**
